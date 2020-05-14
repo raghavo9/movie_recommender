@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+
+<center>
+    <form action="mov_res" method="post">
+        {% csrf_token %}
+        <br><br>
+    <h1><font color="white">enter the movie title :</font></h1>
+    <br>
+    <input style="border-radius:40px; height: 25px; width: 270px; border:5px solid aqua;" type="text" name="title"><p></p>
+    <input style="border-radius:40px; width: 80px;height: 38px; background-color:#a2eeff;" type="submit" value=SEARCH >
+    </form>
+</center>
+
+{% endblock %}
