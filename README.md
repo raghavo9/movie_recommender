@@ -6,13 +6,13 @@ to see the live project up and runnning goto :  https://mymovierecom.herokuapp.c
 ![](pictures/movie_recom_h.PNG)
 
 try movie titles such as:
-Skyfall
-Resident Evil
-Bolt
-Spectre
-Avatar
-The Avengers 
-etc, and many more
+Skyfall <br>
+Resident Evil <br>
+Bolt <br>
+Spectre <br>
+Avatar <br>
+The Avengers  <br> 
+etc, and many more <br>
 
 
 ![](pictures/movie_recom.png)
